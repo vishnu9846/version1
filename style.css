@@ -46,8 +46,7 @@
     display: flex;
     text-decoration: none;
     color: wheat;
-    position: absolute;
-    left: 36rem;
+    justify-content: center;
 }
 
 
