@@ -114,3 +114,6 @@
 #B:hover{
     color: blue;
 }
+.page{
+    display: flex;
+}
